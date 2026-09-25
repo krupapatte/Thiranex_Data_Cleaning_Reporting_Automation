@@ -100,7 +100,6 @@ python run.py
 ```
 
 ### Step 5: Check the Output
-
 After running the program, open the `output` folder.
 
 The folder contains:
@@ -127,6 +126,5 @@ https://youtu.be/jxq4-KSB\_OA?si=TYTTnUR3vC7TyIib
 ## 9\. Conclusion
 
 This project helped me understand the basic steps involved in data cleaning and automated reporting using Python. It also gave me practical experience with Pandas, data preprocessing, CSV files and simple data visualization.
-
 The project can be extended in the future by using larger datasets and creating more reports or dashboards.
 
