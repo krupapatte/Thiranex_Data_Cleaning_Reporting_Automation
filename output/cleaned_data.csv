@@ -1,0 +1,21 @@
+Customer ID,Name,Email,City,Order Date,Sales,Sales Category
+C001,Ananya Rao,ananya@gmail.com,Bengaluru,2026-09-01,12000.0,High
+C002,Rahul Shetty,rahul@gmail.com,Mysore,2026-09-02,8500.0,High
+C003,Priya Nair,priya@gmail.com,Mangalore,2026-09-03,7200.0,Medium
+C004,Kiran Kumar,kiran@gmail.com,Bengaluru,2026-09-04,9500.0,High
+C005,Sneha Pai,sneha@gmail.com,Udupi,2026-09-05,6100.0,Medium
+C006,Arjun Rao,arjun@gmail.com,Mysore,2026-09-06,4300.0,Low
+C007,Megha Das,megha@gmail.com,Mangalore,2026-09-07,7800.0,Medium
+C008,Vivek Bhat,vivek@gmail.com,Bengaluru,2026-09-08,10300.0,High
+C009,Nisha Rao,nisha@gmail.com,Udupi,2026-09-09,5600.0,Medium
+C010,Rohan Pai,rohan@gmail.com,Mysore,2026-09-10,6900.0,Medium
+C011,Asha Hegde,asha@gmail.com,Bengaluru,2026-09-11,8300.0,High
+C012,Manoj Shetty,manoj@gmail.com,Mangalore,2026-09-12,9100.0,High
+C013,Divya Rao,divya@gmail.com,Udupi,2026-09-13,5200.0,Medium
+C014,Sanjay Kumar,sanjay@gmail.com,Bengaluru,2026-09-14,11200.0,High
+C015,Pooja Pai,pooja@gmail.com,Mysore,2026-09-15,6400.0,Medium
+C016,Neha Das,neha@gmail.com,Bengaluru,2026-09-16,8800.0,High
+C017,Vishal Rao,vishal@gmail.com,Mangalore,2026-09-17,7400.0,Medium
+C018,Riya Nair,riya@gmail.com,Bengaluru,2026-09-18,7600.0,Medium
+C019,Ajay Bhat,ajay@gmail.com,Udupi,2026-09-19,4700.0,Low
+C020,Lakshmi Rao,not_provided@example.com,Mysore,2026-09-20,5900.0,Medium

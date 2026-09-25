@@ -1,0 +1,20 @@
+DATA CLEANING & REPORTING AUTOMATION REPORT
+================================================
+
+Rows before cleaning : 21
+Rows after cleaning  : 20
+Duplicates removed   : 1
+Missing cells before : 1
+Missing cells after  : 0
+Total sales          : 152800.00
+Average sales        : 7640.00
+
+Cleaning steps:
+1. Trimmed extra spaces from text fields.
+2. Standardized city names and email case.
+3. Converted dates and sales to correct data types.
+4. Filled missing sales using the median.
+5. Filled missing email with a standard placeholder.
+6. Removed duplicate customer IDs.
+7. Added a simple sales category.
+8. Generated summary tables and a chart.
